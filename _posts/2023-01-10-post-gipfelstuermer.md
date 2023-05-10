@@ -10,5 +10,5 @@ related_posts: false
 
 Wir haben die Gipfelstürmer App gestartet.
 
-Hier gibt es mehr Informationen: https://gipfelstuermer.github.io
+Hier gibt es mehr Informationen: <a href="Gipfelstuermer.github.io">Gipfelstuermer Website</a>
 

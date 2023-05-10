@@ -10,5 +10,6 @@ related_posts: false
 
 Ich habe meinen PhD beim Fraunhofer Institut gestartet.
 
-Hier gibt es mehr Informationen: https://safe-intelligence.fraunhofer.de/tim-knissel
+Hier gibt es mehr Informationen: <a href="https://safe-intelligence.fraunhofer.de/tim-knissel">Tim Knissel Fraunhofer Website</a>
+
 
