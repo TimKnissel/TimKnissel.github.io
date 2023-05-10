@@ -9,4 +9,4 @@ category:
 
 Gipelstürmer App
 
-<a href="https://Gipfelstuermer.github.io">Gipfelstuermer Website</a>
+<a href="https://gipfelsturmer.github.io">Gipfelstuermer Website</a>
