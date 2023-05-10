@@ -10,4 +10,4 @@ category:
 Höhenmeter Challenge
 
 
-<a href="Hoehenmeter-Challenge.github.io">Höhenmeter Challenge Website</a>
+<a href="https://Hoehenmeter-Challenge.github.io">Höhenmeter Challenge Website</a>

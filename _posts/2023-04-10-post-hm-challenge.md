@@ -10,5 +10,5 @@ related_posts: false
 
 Wir haben die Höhenmeter Challenge gestartet.
 
-Hier gibt es mehr Informationen: <a href="Hoehenmeter-Challenge.github.io">Höhenmeter Challenge Website</a>
+Hier gibt es mehr Informationen: <a href="https://Hoehenmeter-Challenge.github.io">Höhenmeter Challenge Website</a>
 
