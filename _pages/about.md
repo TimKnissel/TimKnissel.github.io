@@ -29,3 +29,5 @@ Aktuell habe ich zwei Projekte:
 2. Die Höhenmeter Challenge
 
 Schau dir gerne meine Projekte auf der Webseite an!
+
+Bei Fragen, kontaktiere mich gerne per Mail: tim.knissel[at]hotmail.de
