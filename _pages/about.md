@@ -16,8 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-About me
-
 Ich bin Tim und forsche als Doktorand am Fraunhofer Institut für Kognitive Systeme. Mein Forschungsschwerpunkt ist die Automatisierung in Produktionssystemen.
 
 Neben dem Job entwickle ich zusammen mit Freunden Ideen rund um den Bergsport.
