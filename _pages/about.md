@@ -22,9 +22,9 @@ Neben dem Job entwickle ich zusammen mit Freunden Ideen rund um den Bergsport.
 
 Aktuell habe ich zwei Projekte:
 
-1. Die Gipfelstürmer-App
+1. Die Gipfelstürmer-App: <a href="https://gipfelsturmer.github.io">Gipfelstuermer Website</a>
 
-2. Die Höhenmeter Challenge
+2. Die Höhenmeter Challenge: <a href="https://Hoehenmeter-Challenge.github.io">Höhenmeter Challenge Website</a>
 
 Schau dir gerne meine Projekte auf der Webseite an!
 
